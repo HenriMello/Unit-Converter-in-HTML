@@ -1,0 +1,17 @@
+body {
+    background-color: dimgray;
+    padding: 20px;
+  }
+  h1 {
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+  }
+  p {
+    background-color: yellow;
+    color: black;
+    width: 200px;
+    height: 20px;
+    padding: 5px;
+    border-radius: 5px;
+  }
